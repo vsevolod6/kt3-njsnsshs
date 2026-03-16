@@ -1,2 +1,16 @@
-# kt3-njsnsshs
-kt3
+# SOLID examples in Python
+
+Примеры принципов SOLID на Python.
+
+## Содержание
+
+- S — Single Responsibility Principle
+- O — Open/Closed Principle
+- L — Liskov Substitution Principle
+- I — Interface Segregation Principle
+- D — Dependency Inversion Principle
+
+## Запуск
+
+```bash
+python main.py
