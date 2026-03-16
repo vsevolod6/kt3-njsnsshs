@@ -10,7 +10,3 @@
 - I — Interface Segregation Principle
 - D — Dependency Inversion Principle
 
-## Запуск
-
-```bash
-python main.py
